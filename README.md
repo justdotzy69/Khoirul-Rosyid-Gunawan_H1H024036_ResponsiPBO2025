@@ -36,3 +36,4 @@ Halaman ini berisi formulir interaktif di mana trainer dapat memilih Jenis Latih
 -riwayat.php (Halaman Riwayat)
 
 Tugas utama file ini adalah mengambil seluruh data riwayat latihan dari SessionManager. Riwayat tersebut kemudian ditampilkan dalam bentuk list yang rapi dan terperinci, diurutkan dari sesi terbaru. Setiap item riwayat menyajikan detail lengkap dari satu sesi pelatihan, mencakup Jenis Latihan, Intensitas, Level sebelum dan sesudah, HP sebelum dan sesudah, serta Waktu pelaksanaan.
+![Demo Pokecare](https://github.com/user-attachments/assets/75e8a4a0-130e-4786-b5d5-259336694bb2)
