@@ -2,6 +2,7 @@ Nama : Khoirul Rosyid Gunawan
 NIM  : H1H024036
 Shift Awal : B
 Shift Akhir : C
+
 Responsi Pemograman Berbasis Objek
 
 Penjelasan Detail Kode dan Aplikasi
